@@ -17,7 +17,7 @@ The GenAIInfra repository is organized under four main directories, which includ
 
 ### Prerequisites
 
-GenAIInfra uses [Kubernetes](https://kubernetes.io/) as the cloud native infrastructure. You will need the access to either managed kubernetes services (e.g., EKS,ASK,GKE and etc) or self managed kubernetes.
+GenAIInfra uses [Kubernetes](https://kubernetes.io/) as the cloud native infrastructure. You will need the access to either managed kubernetes services (e.g., EKS,AKS,GKE and etc) or self managed kubernetes.
 
 ### Use helm charts to deploy
 
